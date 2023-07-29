@@ -1,0 +1,246 @@
+@media (min-width: 320px) and (max-width: 767px){
+    .ptb-100{
+        padding-top: 45px;
+        padding-bottom: 50px;
+    }
+    .navbar {
+        top: 73px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .top-header-info {
+        text-align: center;
+    }
+    .logo-cab h4 {
+        text-align: center;
+    }
+    .banner-text h2 {
+        font-size: 18px;
+    }
+    .banner-text span {
+        font-size: 10px;
+    }
+    .form-select {
+        margin-top: 9px;
+        padding: 0px 0px 4px 0px;
+    }
+    input#birthdaytime {
+        padding: 5px 26px 2px 6px;
+        margin-left: -4px;
+        margin-top: 6px;
+    }
+    .banner-text {
+        background-color: #000;
+        padding: 0px 48px 18px 25px;
+        margin-top: -96px;
+    }
+    .backnd-logorpt {
+        display: none;
+    }
+    .backnd-logo {
+        display: none;
+    }
+    .banner-text {
+        /* margin-top: -69px; */
+        position: absolute;
+        left: 22px;
+        right: 0;
+        max-width: 88%;
+        top: 222px;
+    }
+    .banner-text span {
+        color: #fff;
+        text-align: center !important;
+        margin-left: -6px;
+    }
+    .banner-area {
+        padding-top: 50%;
+        margin-top: 44px;
+        margin-bottom: 135px;
+    }
+    .services-card {
+        margin-top: 20px;
+    }
+    .form-select {
+        display: block;
+        width: 90%;
+    }
+    .section-title h4 {
+        text-align: center;
+        font-size: 30px;
+        font-weight: 500;
+        margin-bottom: 40px;
+    }
+    .section-title::before {
+        top: 40px;
+
+    }
+    .section-title::after {
+        top: 46px;
+    }
+    .services-card {
+        padding: 40px 0px 40px 0px;
+    }
+    .services-card h4 {
+        font-size: 20px;
+    }
+    .services-card p {
+        font-size: 12px;
+    }
+    .maxi-services h2 {
+        font-size: 26px;
+    }
+    .faq-content .accordion-button:not(.collapsed) {
+        font-size: 12px;
+    }
+    .accordion-body p {
+        font-size: 12px;
+    }
+    .faq-content .accordion-button {
+        font-size: 14px;
+    }
+    .services-sec {
+        margin-top: -96px;
+    }
+    .banner-btns a {
+        padding: 6px 15px 6px 14px;
+        margin-right: 20px;
+    }
+    .banner-contant p {
+        margin-bottom: 10px;
+        margin-top: -9px;
+        font-size: 12px;
+    }
+    .banner-contant h2 {
+        font-size: 16px;
+        margin-top: 8px;
+    }
+    .services-sec {
+        margin-top: 2px;
+    }
+    .banner-contant {
+        top: -34px;
+    }
+    p.p-one {
+        margin-top: 0px;
+    }
+    .about-dibag p {
+        font-size: 14px;
+        margin-left: 18px;
+    }
+    .airport-area {
+        margin-top: 19px;
+    }
+    .airport-area::before {
+        top: -6px;
+        height: 88%;
+    }
+    .about-dibag h3 {
+        font-size: 23px;
+    }
+    .privat-airport h2 {
+        margin-bottom: 40px;
+        font-size: 20px;
+    }
+    .choose-content h2 {
+        font-size: 22px;
+    }
+    .choose-content p {
+        font-size: 16px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .content-main ul li span {
+        font-size: 16px;
+        padding-left: 16px;
+    }
+    .grp-banner-contant h2 {
+        font-size: 18px;
+    }
+    .grp-banner-contant {
+        top: 25px;
+    }
+    .transfer-area {
+        margin-top: -21px;
+    }
+    .transfer-area::before {
+        height: 83%;
+    }
+    .grp-banner-contant p {
+        margin-bottom: 35px;
+        margin-top: 15px;
+        font-size: 12px;
+    }
+    img.box-img {
+        margin-top: 45px;
+    }
+    .loo-img {
+        max-width: 20%;
+        margin-bottom: 8px;
+        margin-top: 22px;
+    }
+    .cruise-area {
+        margin-top: 19px;
+    }
+    .cruise-area::before {
+        height: 89%;
+        top: -3px;
+    }
+    h3.cruis {
+        margin-bottom: 10px;
+    }
+    .wedding-area {
+        margin-top: -18px;
+    }
+    div#top-pblm {
+        top: -45px;
+    }
+    .wedding-area::before {
+        height: 80%;
+    }
+    .race-area {
+        margin-top: -22px;
+    }
+    div#sub-mainpblm {
+        top: -44px;
+    }
+    .race-area::before {
+        top: -39px;
+    }
+    .aboutus-area {
+        margin-top: -25px;
+    }
+    .aboutus-area::before {
+        top: 4px;
+    }
+    .trested-content {
+        text-align: center;
+        max-width: 58%;
+        margin: auto;
+    }
+    .trested-img {
+        margin-top: 20px;
+    }
+    .contactus-area {
+        margin-top: -45px;
+    }
+    .contactus-area::before {
+        height: 93%;
+        top: 20px;
+    }
+    .contactus-froms h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .contactus-froms ul li a {
+        font-size: 16px;
+        margin-left: 8px;
+    }
+    .cotent-froms ul li i {
+        font-size: 64px;
+    }
+    .from-starts {
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+}   
